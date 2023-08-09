@@ -1,0 +1,177 @@
+,FinalData.Id,FinalData.Component,FinalData.InstallationName,FinalData.InstallationType,FinalData.SampleDate,FinalData.AnalysisMethod,FinalData.AnalyteAbbrev,FinalData.FinalResult,MCLs,exceedance,FinalData.LimitOfDetection,FinalData.FinalUnits,FinalData.FinalQualification,FinalData.TreatmentSystem,FinalData.PreOrPostTreatment,Id,DodComponentId,DodComponent,State,InstallationType,Latitude,Longitude,_merge
+0,123477.0,Air Force,Air Force Plant 44,Active,2022-10-11T00:00:00-04:00,QSM_B15,PFOS,29.2,4,True,4,ng/L,,Yes,pre-treatment,24,5700,Air Force,Arizona,Active,32.221743,-110.926479,both
+1,123501.0,Air Force,Air Force Plant 44,Active,2022-10-11T00:00:00-04:00,QSM_B15,PFOS,28.5,4,True,4,ng/L,,Yes,pre-treatment,24,5700,Air Force,Arizona,Active,32.221743,-110.926479,both
+2,24112.0,Air Force,Arnold AFB,Active,2021-12-14T00:00:00-05:00,QSM_B15,PFOS,13.9,4,True,4.2,ng/L,,No,,41,5700,Air Force,Tennessee,Active,35.39881,-86.078066,both
+3,24113.0,Air Force,Arnold AFB,Active,2021-12-14T00:00:00-05:00,QSM_B15,PFOA,39.2,4,True,4.2,ng/L,,No,,41,5700,Air Force,Tennessee,Active,35.39881,-86.078066,both
+4,24136.0,Air Force,Arnold AFB,Active,2021-12-14T00:00:00-05:00,QSM_B15,PFOS,14.3,4,True,4.2,ng/L,,No,,41,5700,Air Force,Tennessee,Active,35.39881,-86.078066,both
+5,24137.0,Air Force,Arnold AFB,Active,2021-12-14T00:00:00-05:00,QSM_B15,PFOA,40.9,4,True,4.2,ng/L,,No,,41,5700,Air Force,Tennessee,Active,35.39881,-86.078066,both
+6,22261.0,Air Force,Avon Park Air Force Reserve,Active,2021-12-20T00:00:00-05:00,QSM_B15,PFOS,40.3,4,True,4,ng/L,,No,,45,5700,Air Force,Florida,Active,27.59567,-81.506186,both
+7,22262.0,Air Force,Avon Park Air Force Reserve,Active,2021-12-20T00:00:00-05:00,QSM_B15,PFOA,10.7,4,True,4,ng/L,,No,,45,5700,Air Force,Florida,Active,27.59567,-81.506186,both
+8,22285.0,Air Force,Avon Park Air Force Reserve,Active,2021-12-20T00:00:00-05:00,QSM_B15,PFOS,22.8,4,True,4.2,ng/L,,No,,45,5700,Air Force,Florida,Active,27.59567,-81.506186,both
+9,22286.0,Air Force,Avon Park Air Force Reserve,Active,2021-12-20T00:00:00-05:00,QSM_B15,PFOA,6.3,4,True,4.2,ng/L,J,No,,45,5700,Air Force,Florida,Active,27.59567,-81.506186,both
+10,13217.0,Air Force,Biddle ANGB (formerly Horsham/Willow Grove ANG),National Guard,2022-01-27T00:00:00-05:00,537,PFOS,26.0,4,True,4.31,ng/L,,No,,68,5700,Air Force,Pennsylvania,National Guard,40.208241,-75.148506,both
+11,13218.0,Air Force,Biddle ANGB (formerly Horsham/Willow Grove ANG),National Guard,2022-01-27T00:00:00-05:00,537,PFOA,13.0,4,True,4.31,ng/L,,No,,68,5700,Air Force,Pennsylvania,National Guard,40.208241,-75.148506,both
+12,13223.0,Air Force,Biddle ANGB (formerly Horsham/Willow Grove ANG),National Guard,2022-01-27T00:00:00-05:00,537,PFOS,24.4,4,True,4.39,ng/L,,No,,68,5700,Air Force,Pennsylvania,National Guard,40.208241,-75.148506,both
+13,13224.0,Air Force,Biddle ANGB (formerly Horsham/Willow Grove ANG),National Guard,2022-01-27T00:00:00-05:00,537,PFOA,13.7,4,True,4.39,ng/L,,No,,68,5700,Air Force,Pennsylvania,National Guard,40.208241,-75.148506,both
+14,13235.0,Air Force,Biddle ANGB (formerly Horsham/Willow Grove ANG),National Guard,2022-07-18T00:00:00-04:00,QSM_B15,PFOS,9.51,4,True,4,ng/L,,No,,68,5700,Air Force,Pennsylvania,National Guard,40.208241,-75.148506,both
+15,13236.0,Air Force,Biddle ANGB (formerly Horsham/Willow Grove ANG),National Guard,2022-07-18T00:00:00-04:00,QSM_B15,PFOA,10.9,4,True,4,ng/L,,No,,68,5700,Air Force,Pennsylvania,National Guard,40.208241,-75.148506,both
+16,13241.0,Air Force,Biddle ANGB (formerly Horsham/Willow Grove ANG),National Guard,2022-07-18T00:00:00-04:00,QSM_B15,PFOS,6.1,4,True,4,ng/L,,No,,68,5700,Air Force,Pennsylvania,National Guard,40.208241,-75.148506,both
+17,13242.0,Air Force,Biddle ANGB (formerly Horsham/Willow Grove ANG),National Guard,2022-07-18T00:00:00-04:00,QSM_B15,PFOA,4.57,4,True,4,ng/L,,No,,68,5700,Air Force,Pennsylvania,National Guard,40.208241,-75.148506,both
+18,32183.0,Air Force,Biddle ANGB (formerly Horsham/Willow Grove ANG),National Guard,2022-04-27T00:00:00-04:00,537,PFOS,15.7,4,True,4,ng/L,,,,68,5700,Air Force,Pennsylvania,National Guard,40.208241,-75.148506,both
+19,32184.0,Air Force,Biddle ANGB (formerly Horsham/Willow Grove ANG),National Guard,2022-04-27T00:00:00-04:00,537,PFOA,13.0,4,True,4,ng/L,,,,68,5700,Air Force,Pennsylvania,National Guard,40.208241,-75.148506,both
+20,32189.0,Air Force,Biddle ANGB (formerly Horsham/Willow Grove ANG),National Guard,2022-04-27T00:00:00-04:00,537,PFOS,16.6,4,True,4,ng/L,,,,68,5700,Air Force,Pennsylvania,National Guard,40.208241,-75.148506,both
+21,32190.0,Air Force,Biddle ANGB (formerly Horsham/Willow Grove ANG),National Guard,2022-04-27T00:00:00-04:00,537,PFOA,13.5,4,True,4,ng/L,,,,68,5700,Air Force,Pennsylvania,National Guard,40.208241,-75.148506,both
+22,32195.0,Air Force,Biddle ANGB (formerly Horsham/Willow Grove ANG),National Guard,2022-04-27T00:00:00-04:00,537,PFOS,17.7,4,True,4,ng/L,,,,68,5700,Air Force,Pennsylvania,National Guard,40.208241,-75.148506,both
+23,32196.0,Air Force,Biddle ANGB (formerly Horsham/Willow Grove ANG),National Guard,2022-04-27T00:00:00-04:00,537,PFOA,13.2,4,True,4,ng/L,,,,68,5700,Air Force,Pennsylvania,National Guard,40.208241,-75.148506,both
+24,2.0,Navy,Brunswick NAS,BRAC,2021-10-20T00:00:00-04:00,537.1,PFOS,4.79,4,True,1.32,ng/L,,,,87,1700,Navy,Maine,BRAC,43.890348,-69.934373,both
+25,8102.0,Navy,CID CORRY STATION,Active,2022-01-24T00:00:00-05:00,537,PFOS,50.9,4,True,1.28,ng/L,,,,147,1700,Navy,Florida,Active,30.402749,-87.290008,both
+26,8108.0,Navy,CID CORRY STATION,Active,2022-01-24T00:00:00-05:00,537,PFOA,10.6,4,True,1.28,ng/L,,,,147,1700,Navy,Florida,Active,30.402749,-87.290008,both
+27,8120.0,Navy,CID CORRY STATION,Active,2022-01-24T00:00:00-05:00,537,PFOS,17.4,4,True,1.17,ng/L,,,,147,1700,Navy,Florida,Active,30.402749,-87.290008,both
+28,8126.0,Navy,CID CORRY STATION,Active,2022-01-24T00:00:00-05:00,537,PFOA,7.83,4,True,1.17,ng/L,,,,147,1700,Navy,Florida,Active,30.402749,-87.290008,both
+29,8138.0,Navy,CID CORRY STATION,Active,2022-01-25T00:00:00-05:00,537,PFOS,6.73,4,True,1.19,ng/L,,,,147,1700,Navy,Florida,Active,30.402749,-87.290008,both
+30,8506.0,Air Force,Eielson AFB,Active,2022-03-28T00:00:00-04:00,537,PFOS,7.4,4,True,0.89,ng/L,,No,,192,5700,Air Force,Alaska,Active,64.665556,-147.101389,both
+31,8507.0,Air Force,Eielson AFB,Active,2022-03-28T00:00:00-04:00,537,PFOA,4.3,4,True,0.89,ng/L,,No,,192,5700,Air Force,Alaska,Active,64.665556,-147.101389,both
+32,12228.0,Air Force,Eielson AFB,Active,2021-12-30T00:00:00-05:00,QSM_B15,PFOS,5.5,4,True,0.89,ng/L,,No,,192,5700,Air Force,Alaska,Active,64.665556,-147.101389,both
+33,20144.0,Air Force,Eielson AFB,Active,2022-06-29T00:00:00-04:00,537,PFOS,9.0,4,True,0.98,ng/L,J,No,,192,5700,Air Force,Alaska,Active,64.665556,-147.101389,both
+34,20145.0,Air Force,Eielson AFB,Active,2022-06-29T00:00:00-04:00,537,PFOA,4.1,4,True,0.98,ng/L,,No,,192,5700,Air Force,Alaska,Active,64.665556,-147.101389,both
+35,20154.0,Air Force,Eielson AFB,Active,2022-06-29T00:00:00-04:00,537,PFOS,8.4,4,True,0.89,ng/L,,No,,192,5700,Air Force,Alaska,Active,64.665556,-147.101389,both
+36,21429.0,Air Force,Ellsworth AFB,Active,2022-03-14T00:00:00-04:00,537,PFOA,39.7,4,True,1.4,ng/L,,Yes,pre-treatment,198,5700,Air Force,South Dakota,Active,44.14,-103.07,both
+37,21446.0,Air Force,Ellsworth AFB,Active,2022-03-14T00:00:00-04:00,537,PFOS,342.0,4,True,7.52,ng/L,,Yes,pre-treatment,198,5700,Air Force,South Dakota,Active,44.14,-103.07,both
+38,21447.0,Air Force,Ellsworth AFB,Active,2022-03-14T00:00:00-04:00,537,PFOA,188.0,4,True,1.5,ng/L,,Yes,pre-treatment,198,5700,Air Force,South Dakota,Active,44.14,-103.07,both
+39,21465.0,Air Force,Ellsworth AFB,Active,2022-03-14T00:00:00-04:00,537,PFOA,43.7,4,True,1.4,ng/L,,Yes,pre-treatment,198,5700,Air Force,South Dakota,Active,44.14,-103.07,both
+40,63887.0,Army,Fort William Henry Harrison /JFHQ MT,National Guard,2021-10-05T00:00:00-04:00,QSM_B15,PFOA,7.0,4,True,2,ng/L,,,,269,2100,Army,Montana,National Guard,46.630102,-112.087286,both
+41,63888.0,Army,Fort William Henry Harrison /JFHQ MT,National Guard,2021-10-05T00:00:00-04:00,QSM_B15,PFOS,8.4,4,True,2,ng/L,,,,269,2100,Army,Montana,National Guard,46.630102,-112.087286,both
+42,63915.0,Army,Fort William Henry Harrison /JFHQ MT,National Guard,2021-10-05T00:00:00-04:00,QSM_B15,PFOA,6.1,4,True,2,ng/L,,,,269,2100,Army,Montana,National Guard,46.630102,-112.087286,both
+43,139401.0,Air Force,Galena Forward Operating Location,BRAC,2022-09-14T00:00:00-04:00,537.1,PFOA,29.0,4,True,0.48,ng/L,J,No,,279,5700,Air Force,Alaska,BRAC,64.736452,-156.936453,both
+44,139402.0,Air Force,Galena Forward Operating Location,BRAC,2022-09-14T00:00:00-04:00,537.1,PFOS,87.0,4,True,0.48,ng/L,J,No,,279,5700,Air Force,Alaska,BRAC,64.736452,-156.936453,both
+45,139419.0,Air Force,Galena Forward Operating Location,BRAC,2022-09-14T00:00:00-04:00,537.1,PFOA,42.0,4,True,0.48,ng/L,J,No,,279,5700,Air Force,Alaska,BRAC,64.736452,-156.936453,both
+46,139420.0,Air Force,Galena Forward Operating Location,BRAC,2022-09-14T00:00:00-04:00,537.1,PFOS,17.0,4,True,0.48,ng/L,J,No,,279,5700,Air Force,Alaska,BRAC,64.736452,-156.936453,both
+47,139437.0,Air Force,Galena Forward Operating Location,BRAC,2022-09-09T00:00:00-04:00,537.1,PFOA,7.3,4,True,0.45,ng/L,,No,,279,5700,Air Force,Alaska,BRAC,64.736452,-156.936453,both
+48,166777.0,Air Force,George AFB,BRAC,2023-03-23T00:00:00-04:00,1633,PFOA,121.0,4,True,0.92,ng/L,,Yes,pre-treatment,285,5700,Air Force,California,BRAC,34.582954,-117.392197,both
+49,166778.0,Air Force,George AFB,BRAC,2023-03-23T00:00:00-04:00,1633,PFOS,19.1,4,True,1.8,ng/L,,Yes,pre-treatment,285,5700,Air Force,California,BRAC,34.582954,-117.392197,both
+50,24064.0,Air Force,Goodfellow AFB,Active,2022-03-24T00:00:00-04:00,QSM_B15,PFOS,947.0,4,True,20,ng/L,,No,,288,5700,Air Force,Texas,Active,31.434928,-100.403137,both
+51,24065.0,Air Force,Goodfellow AFB,Active,2022-03-24T00:00:00-04:00,QSM_B15,PFOA,71.4,4,True,4,ng/L,,No,,288,5700,Air Force,Texas,Active,31.434928,-100.403137,both
+52,24088.0,Air Force,Goodfellow AFB,Active,2022-03-24T00:00:00-04:00,QSM_B15,PFOS,620.0,4,True,4,ng/L,,No,,288,5700,Air Force,Texas,Active,31.434928,-100.403137,both
+53,24089.0,Air Force,Goodfellow AFB,Active,2022-03-24T00:00:00-04:00,QSM_B15,PFOA,69.7,4,True,4,ng/L,,No,,288,5700,Air Force,Texas,Active,31.434928,-100.403137,both
+54,76538.0,Air Force,Great Falls International Airport,National Guard,2022-06-15T00:00:00-04:00,537,PFOS,79.8,4,True,4,ng/L,,Yes,pre-treatment,294,5700,Air Force,Montana,National Guard,47.477513,-111.363902,both
+55,76539.0,Air Force,Great Falls International Airport,National Guard,2022-06-15T00:00:00-04:00,537,PFOA,90.2,4,True,4,ng/L,,Yes,pre-treatment,294,5700,Air Force,Montana,National Guard,47.477513,-111.363902,both
+56,76544.0,Air Force,Great Falls International Airport,National Guard,2022-06-15T00:00:00-04:00,537,PFOS,82.1,4,True,4,ng/L,,Yes,pre-treatment,294,5700,Air Force,Montana,National Guard,47.477513,-111.363902,both
+57,76545.0,Air Force,Great Falls International Airport,National Guard,2022-06-15T00:00:00-04:00,537,PFOA,90.5,4,True,4,ng/L,,Yes,pre-treatment,294,5700,Air Force,Montana,National Guard,47.477513,-111.363902,both
+58,21829.0,Air Force,Homestead Air Reserve Base,Active,2021-12-21T00:00:00-05:00,QSM_B15,PFOS,43.9,4,True,4,ng/L,,No,,323,5700,Air Force,Florida,Active,25.489029,-80.394086,both
+59,21830.0,Air Force,Homestead Air Reserve Base,Active,2021-12-21T00:00:00-05:00,QSM_B15,PFOA,8.3,4,True,4,ng/L,,No,,323,5700,Air Force,Florida,Active,25.489029,-80.394086,both
+60,21853.0,Air Force,Homestead Air Reserve Base,Active,2021-12-21T00:00:00-05:00,QSM_B15,PFOS,68.5,4,True,4,ng/L,J,No,,323,5700,Air Force,Florida,Active,25.489029,-80.394086,both
+61,21854.0,Air Force,Homestead Air Reserve Base,Active,2021-12-21T00:00:00-05:00,QSM_B15,PFOA,16.0,4,True,4,ng/L,,No,,323,5700,Air Force,Florida,Active,25.489029,-80.394086,both
+62,21613.0,Air Force,Hurlburt Field,Active,2021-11-04T00:00:00-04:00,QSM_B15,PFOS,15.6,4,True,4,ng/L,,No,,327,5700,Air Force,Florida,Active,30.620166,-86.540067,both
+63,21614.0,Air Force,Hurlburt Field,Active,2021-11-04T00:00:00-04:00,QSM_B15,PFOA,9.8,4,True,4,ng/L,,No,,327,5700,Air Force,Florida,Active,30.620166,-86.540067,both
+64,21637.0,Air Force,Hurlburt Field,Active,2021-11-04T00:00:00-04:00,QSM_B15,PFOS,16.6,4,True,4,ng/L,,No,,327,5700,Air Force,Florida,Active,30.620166,-86.540067,both
+65,21638.0,Air Force,Hurlburt Field,Active,2021-11-04T00:00:00-04:00,QSM_B15,PFOA,10.1,4,True,4,ng/L,,No,,327,5700,Air Force,Florida,Active,30.620166,-86.540067,both
+66,5125.0,Air Force,Joint Base McGuire-Dix-Lakehurst,Active,2021-11-09T00:00:00-05:00,QSM_B15,PFOS,83.0,4,True,12,ng/L,,No,,357,5700,Air Force,New Jersey,Active,40.041267,-74.584368,both
+67,5126.0,Air Force,Joint Base McGuire-Dix-Lakehurst,Active,2021-11-09T00:00:00-05:00,QSM_B15,PFOA,41.0,4,True,1.3,ng/L,,No,,357,5700,Air Force,New Jersey,Active,40.041267,-74.584368,both
+68,5161.0,Air Force,Joint Base McGuire-Dix-Lakehurst,Active,2021-11-09T00:00:00-05:00,QSM_B15,PFOS,32.0,4,True,1.2,ng/L,J,No,,357,5700,Air Force,New Jersey,Active,40.041267,-74.584368,both
+69,5162.0,Air Force,Joint Base McGuire-Dix-Lakehurst,Active,2021-11-09T00:00:00-05:00,QSM_B15,PFOA,8.8,4,True,1.2,ng/L,J,No,,357,5700,Air Force,New Jersey,Active,40.041267,-74.584368,both
+70,62923.0,Air Force,Little Rock AFB,Active,2022-06-16T00:00:00-04:00,QSM_B15,PFOS,60.3,4,True,4.3,ng/L,J,Yes,pre-treatment,395,5700,Air Force,Arkansas,Active,34.911592,-92.146859,both
+71,62924.0,Air Force,Little Rock AFB,Active,2022-06-16T00:00:00-04:00,QSM_B15,PFOA,76.3,4,True,4.3,ng/L,J,Yes,pre-treatment,395,5700,Air Force,Arkansas,Active,34.911592,-92.146859,both
+72,60955.0,Air Force,Loring AFB,BRAC,2021-10-21T00:00:00-04:00,QSM_B15,PFOS,15.1,4,True,1.89,ng/L,J,No,,401,5700,Air Force,Maine,BRAC,46.939676,-67.905252,both
+73,60956.0,Air Force,Loring AFB,BRAC,2021-10-21T00:00:00-04:00,QSM_B15,PFOA,5.92,4,True,1.89,ng/L,,No,,401,5700,Air Force,Maine,BRAC,46.939676,-67.905252,both
+74,64375.0,Air Force,Luke AFB,Active,2022-03-31T00:00:00-04:00,QSM_B15,PFOS,28.3,4,True,4,ng/L,,Yes,post-treatment,405,5700,Air Force,Arizona,Active,33.539951,-112.366482,both
+75,64376.0,Air Force,Luke AFB,Active,2022-03-31T00:00:00-04:00,QSM_B15,PFOA,5.4,4,True,4,ng/L,J,Yes,post-treatment,405,5700,Air Force,Arizona,Active,33.539951,-112.366482,both
+76,64399.0,Air Force,Luke AFB,Active,2022-03-31T00:00:00-04:00,QSM_B15,PFOS,26.2,4,True,4,ng/L,,Yes,post-treatment,405,5700,Air Force,Arizona,Active,33.539951,-112.366482,both
+77,64400.0,Air Force,Luke AFB,Active,2022-03-31T00:00:00-04:00,QSM_B15,PFOA,6.0,4,True,4,ng/L,J,Yes,post-treatment,405,5700,Air Force,Arizona,Active,33.539951,-112.366482,both
+78,10558.0,Air Force,March AFB,BRAC,2022-01-03T00:00:00-05:00,537.1,PFOS,220.0,4,True,17,ng/L,,Yes,pre-treatment,413,5700,Air Force,California,BRAC,33.898203,-117.263728,both
+79,10559.0,Air Force,March AFB,BRAC,2022-01-03T00:00:00-05:00,537.1,PFOA,95.0,4,True,17,ng/L,,Yes,pre-treatment,413,5700,Air Force,California,BRAC,33.898203,-117.263728,both
+80,10594.0,Air Force,March AFB,BRAC,2022-01-03T00:00:00-05:00,537.1,PFOS,9.5,4,True,1.8,ng/L,,Yes,pre-treatment,413,5700,Air Force,California,BRAC,33.898203,-117.263728,both
+81,12242.0,Air Force,Mather AFB,BRAC,2021-11-30T00:00:00-05:00,QSM_B15,PFOS,36.0,4,True,0.51,ng/L,,No,,419,5700,Air Force,California,BRAC,38.563659,-121.297211,both
+82,12243.0,Air Force,Mather AFB,BRAC,2021-11-30T00:00:00-05:00,QSM_B15,PFOA,8.5,4,True,0.49,ng/L,,No,,419,5700,Air Force,California,BRAC,38.563659,-121.297211,both
+83,23872.0,Air Force,McConnell AFB,Active,2022-03-03T00:00:00-05:00,QSM_B15,PFOS,30.3,4,True,4,ng/L,J,No,,426,5700,Air Force,Kansas,Active,37.620787,-97.277092,both
+84,23873.0,Air Force,McConnell AFB,Active,2022-03-03T00:00:00-05:00,QSM_B15,PFOA,28.1,4,True,4,ng/L,,No,,426,5700,Air Force,Kansas,Active,37.620787,-97.277092,both
+85,23896.0,Air Force,McConnell AFB,Active,2022-03-03T00:00:00-05:00,QSM_B15,PFOS,27.5,4,True,4,ng/L,,No,,426,5700,Air Force,Kansas,Active,37.620787,-97.277092,both
+86,23897.0,Air Force,McConnell AFB,Active,2022-03-03T00:00:00-05:00,QSM_B15,PFOA,26.3,4,True,4,ng/L,,No,,426,5700,Air Force,Kansas,Active,37.620787,-97.277092,both
+87,168224.0,Air Force,McEntire Air Guard,National Guard,2023-02-02T00:00:00-05:00,537,PFOS,364.0,4,True,0.902,ng/L,J,No,,428,5700,Air Force,South Carolina,National Guard,33.922953,-80.80061,both
+88,168225.0,Air Force,McEntire Air Guard,National Guard,2023-02-02T00:00:00-05:00,537,PFOA,29.8,4,True,0.804,ng/L,,No,,428,5700,Air Force,South Carolina,National Guard,33.922953,-80.80061,both
+89,168242.0,Air Force,McEntire Air Guard,National Guard,2023-02-02T00:00:00-05:00,537,PFOS,19.4,4,True,0.943,ng/L,J,No,,428,5700,Air Force,South Carolina,National Guard,33.922953,-80.80061,both
+90,168243.0,Air Force,McEntire Air Guard,National Guard,2023-02-02T00:00:00-05:00,537,PFOA,6.3,4,True,0.84,ng/L,,No,,428,5700,Air Force,South Carolina,National Guard,33.922953,-80.80061,both
+91,168260.0,Air Force,McEntire Air Guard,National Guard,2023-02-02T00:00:00-05:00,537,PFOS,28.7,4,True,0.947,ng/L,,No,,428,5700,Air Force,South Carolina,National Guard,33.922953,-80.80061,both
+92,614.0,Navy,MECHANICSBURG PA NAVICP,Active,2022-01-18T00:00:00-05:00,537,PFOS,20.2,4,True,1.2,ng/L,,,,432,1700,Navy,Pennsylvania,Active,40.227695,-76.986598,both
+93,620.0,Navy,MECHANICSBURG PA NAVICP,Active,2022-01-18T00:00:00-05:00,537,PFOA,13.0,4,True,1.2,ng/L,,,,432,1700,Navy,Pennsylvania,Active,40.227695,-76.986598,both
+94,632.0,Navy,MECHANICSBURG PA NAVICP,Active,2022-01-18T00:00:00-05:00,537,PFOS,20.4,4,True,1.21,ng/L,,,,432,1700,Navy,Pennsylvania,Active,40.227695,-76.986598,both
+95,638.0,Navy,MECHANICSBURG PA NAVICP,Active,2022-01-18T00:00:00-05:00,537,PFOA,12.1,4,True,1.21,ng/L,,,,432,1700,Navy,Pennsylvania,Active,40.227695,-76.986598,both
+96,554.0,Formerly Used Defense Site,NAVAL AUX LANDING FIELD,Formerly Used Defense Site,2022-05-19T00:00:00-04:00,537.1,PFOA,60.2,4,True,1.92,ng/L,,Yes,pre-treatment,464,9799,FUDS,Rhode Island,FUDS,41.370278,-71.663056,both
+97,590.0,Formerly Used Defense Site,NAVAL AUX LANDING FIELD,Formerly Used Defense Site,2022-05-19T00:00:00-04:00,537.1,PFOA,55.5,4,True,2.10,ng/L,,Yes,pre-treatment,464,9799,FUDS,Rhode Island,FUDS,41.370278,-71.663056,both
+98,8512.0,Navy,NCTAMSLANT DET CUTLER,Active,2021-10-05T00:00:00-04:00,537,PFOS,36.1,4,True,1.27,ng/L,,,,471,1700,Navy,Maine,Active,44.649271,-67.28509,both
+99,8518.0,Navy,NCTAMSLANT DET CUTLER,Active,2021-10-05T00:00:00-04:00,537,PFOA,16.2,4,True,1.27,ng/L,,,,471,1700,Navy,Maine,Active,44.649271,-67.28509,both
+100,8530.0,Navy,NCTAMSLANT DET CUTLER,Active,2021-10-06T00:00:00-04:00,537,PFOS,18.8,4,True,1.15,ng/L,,,,471,1700,Navy,Maine,Active,44.649271,-67.28509,both
+101,8536.0,Navy,NCTAMSLANT DET CUTLER,Active,2021-10-06T00:00:00-04:00,537,PFOA,9.73,4,True,1.15,ng/L,,,,471,1700,Navy,Maine,Active,44.649271,-67.28509,both
+102,8548.0,Navy,NCTAMSLANT DET CUTLER,Active,2021-10-06T00:00:00-04:00,537,PFOS,5.26,4,True,1.32,ng/L,,,,471,1700,Navy,Maine,Active,44.649271,-67.28509,both
+103,8554.0,Navy,NCTAMSLANT DET CUTLER,Active,2021-10-06T00:00:00-04:00,537,PFOA,38.3,4,True,1.32,ng/L,,,,471,1700,Navy,Maine,Active,44.649271,-67.28509,both
+104,70823.0,Navy,OCEANA VA NAS,Active,2021-10-04T00:00:00-04:00,537.1,PFOS,5.1,4,True,1.16,ng/L,,,,494,1700,Navy,Virginia,Active,36.815192,-76.031174,both
+105,70829.0,Navy,OCEANA VA NAS,Active,2021-10-04T00:00:00-04:00,537.1,PFOA,5.67,4,True,1.16,ng/L,,,,494,1700,Navy,Virginia,Active,36.815192,-76.031174,both
+106,68732.0,Air Force,Otis ANG (Joint Base Cape Cod -Massachusetts Military Reservation),Active,2022-09-15T00:00:00-04:00,QSM_B15,PFOS,4.2,4,True,0.74,ng/L,J,No,,501,5700,Air Force,Massachusetts,National Guard,41.658201,-70.521583,both
+107,76877.0,Air Force,Otis ANG (Joint Base Cape Cod -Massachusetts Military Reservation),Active,2022-01-19T00:00:00-05:00,QSM_B15,PFOA,11.0,4,True,0.8,ng/L,J,No,,501,5700,Air Force,Massachusetts,National Guard,41.658201,-70.521583,both
+108,76884.0,Air Force,Otis ANG (Joint Base Cape Cod -Massachusetts Military Reservation),Active,2022-01-27T00:00:00-05:00,QSM_B15,PFOA,6.5,4,True,0.8,ng/L,,No,,501,5700,Air Force,Massachusetts,National Guard,41.658201,-70.521583,both
+109,65726.0,Air Force,Pease AFB,BRAC,2022-04-19T00:00:00-04:00,QSM_B15,PFOS,96.0,4,True,0.43,ng/L,,Yes,post-treatment,511,5700,Air Force,New Hampshire,BRAC,43.080259,-70.821129,both
+110,65727.0,Air Force,Pease AFB,BRAC,2022-04-19T00:00:00-04:00,QSM_B15,PFOA,32.0,4,True,0.49,ng/L,,Yes,post-treatment,511,5700,Air Force,New Hampshire,BRAC,43.080259,-70.821129,both
+111,2263.0,Air Force,Peterson AFB,Active,2022-06-15T00:00:00-04:00,QSM_B15,PFOS,88.0,4,True,14,ng/L,,Yes,pre-treatment,517,5700,Air Force,Colorado,Active,38.820337,-104.696366,both
+112,2264.0,Air Force,Peterson AFB,Active,2022-06-15T00:00:00-04:00,QSM_B15,PFOA,92.0,4,True,14,ng/L,,Yes,pre-treatment,517,5700,Air Force,Colorado,Active,38.820337,-104.696366,both
+113,2281.0,Air Force,Peterson AFB,Active,2022-06-15T00:00:00-04:00,QSM_B15,PFOS,89.0,4,True,14,ng/L,,Yes,pre-treatment,517,5700,Air Force,Colorado,Active,38.820337,-104.696366,both
+114,2282.0,Air Force,Peterson AFB,Active,2022-06-15T00:00:00-04:00,QSM_B15,PFOA,92.0,4,True,14,ng/L,,Yes,pre-treatment,517,5700,Air Force,Colorado,Active,38.820337,-104.696366,both
+115,12925.0,Air Force,Plattsburgh AFB,BRAC,2021-11-18T00:00:00-05:00,537.1,PFOS,98.0,4,True,1.5,ng/L,,Yes,pre-treatment,525,5700,Air Force,New York,BRAC,44.683551,-73.447904,both
+116,12926.0,Air Force,Plattsburgh AFB,BRAC,2021-11-18T00:00:00-05:00,537.1,PFOA,32.0,4,True,1.5,ng/L,,Yes,pre-treatment,525,5700,Air Force,New York,BRAC,44.683551,-73.447904,both
+117,12967.0,Air Force,Plattsburgh AFB,BRAC,2021-11-18T00:00:00-05:00,537.1,PFOS,110.0,4,True,1.4,ng/L,,Yes,pre-treatment,525,5700,Air Force,New York,BRAC,44.683551,-73.447904,both
+118,12968.0,Air Force,Plattsburgh AFB,BRAC,2021-11-18T00:00:00-05:00,537.1,PFOA,20.0,4,True,1.4,ng/L,,Yes,pre-treatment,525,5700,Air Force,New York,BRAC,44.683551,-73.447904,both
+119,1856.0,Army,Presidio of Monterey - Sharpe Army Depot,Active,2022-07-27T00:00:00-04:00,537.1,PFOS,11.8,4,True,1.50,ng/L,J,No,,532,2100,Army,California,Active,37.853982,-121.265966,both
+120,1874.0,Army,Presidio of Monterey - Sharpe Army Depot,Active,2022-07-27T00:00:00-04:00,537.1,PFOS,12.3,4,True,1.51,ng/L,J,No,,532,2100,Army,California,Active,37.853982,-121.265966,both
+121,1892.0,Army,Presidio of Monterey - Sharpe Army Depot,Active,2022-07-27T00:00:00-04:00,537.1,PFOS,12.1,4,True,1.55,ng/L,J,No,,532,2100,Army,California,Active,37.853982,-121.265966,both
+122,8426.0,Navy,SAUFLEY FLD FL NAS,Active,2021-09-24T00:00:00-04:00,537,PFOS,19.0,4,True,1.16,ng/L,J,,,582,1700,Navy,Florida,Active,30.470444,-87.341373,both
+123,8432.0,Navy,SAUFLEY FLD FL NAS,Active,2021-09-24T00:00:00-04:00,537,PFOA,13.2,4,True,1.16,ng/L,J,,,582,1700,Navy,Florida,Active,30.470444,-87.341373,both
+124,8444.0,Navy,SAUFLEY FLD FL NAS,Active,2021-09-24T00:00:00-04:00,537,PFOS,12.6,4,True,1.12,ng/L,,,,582,1700,Navy,Florida,Active,30.470444,-87.341373,both
+125,8450.0,Navy,SAUFLEY FLD FL NAS,Active,2021-09-24T00:00:00-04:00,537,PFOA,5.06,4,True,1.12,ng/L,,,,582,1700,Navy,Florida,Active,30.470444,-87.341373,both
+126,8462.0,Navy,SAUFLEY FLD FL NAS,Active,2021-09-24T00:00:00-04:00,537,PFOS,10.8,4,True,1.09,ng/L,,,,582,1700,Navy,Florida,Active,30.470444,-87.341373,both
+127,8468.0,Navy,SAUFLEY FLD FL NAS,Active,2021-09-24T00:00:00-04:00,537,PFOA,4.16,4,True,1.09,ng/L,,,,582,1700,Navy,Florida,Active,30.470444,-87.341373,both
+128,63236.0,Air Force,Schriever AFB,Active,2022-02-14T00:00:00-05:00,QSM_B15,PFOA,22.0,4,True,4.2,ng/L,,,,586,5700,Air Force,Colorado,Active,38.80338,-104.52564,both
+129,63260.0,Air Force,Schriever AFB,Active,2022-02-14T00:00:00-05:00,QSM_B15,PFOA,22.6,4,True,4.2,ng/L,,,,586,5700,Air Force,Colorado,Active,38.80338,-104.52564,both
+130,23824.0,Air Force,Scott AFB,Active,2021-12-13T00:00:00-05:00,QSM_B15,PFOS,39.8,4,True,4,ng/L,J,No,,587,5700,Air Force,Illinois,Active,38.541451,-89.85369,both
+131,23825.0,Air Force,Scott AFB,Active,2021-12-13T00:00:00-05:00,QSM_B15,PFOA,6.2,4,True,4,ng/L,J,No,,587,5700,Air Force,Illinois,Active,38.541451,-89.85369,both
+132,23848.0,Air Force,Scott AFB,Active,2021-12-13T00:00:00-05:00,QSM_B15,PFOS,41.7,4,True,4,ng/L,J,No,,587,5700,Air Force,Illinois,Active,38.541451,-89.85369,both
+133,23849.0,Air Force,Scott AFB,Active,2021-12-13T00:00:00-05:00,QSM_B15,PFOA,6.1,4,True,4,ng/L,J,No,,587,5700,Air Force,Illinois,Active,38.541451,-89.85369,both
+134,63787.0,Air Force,Seymour Johnson AFB,Active,2022-03-16T00:00:00-04:00,QSM_B15,PFOS,20.2,4,True,4,ng/L,,No,,592,5700,Air Force,North Carolina,Active,35.348746,-77.967841,both
+135,77367.0,Air Force,Seymour Johnson AFB,Active,2022-06-09T00:00:00-04:00,QSM_B15,PFOS,27.6,4,True,4,ng/L,,No,,592,5700,Air Force,North Carolina,Active,35.348746,-77.967841,both
+136,77368.0,Air Force,Seymour Johnson AFB,Active,2022-06-09T00:00:00-04:00,QSM_B15,PFOA,14.3,4,True,4,ng/L,,No,,592,5700,Air Force,North Carolina,Active,35.348746,-77.967841,both
+137,13256.0,Air Force,Shaw AFB,Active,2021-12-01T00:00:00-05:00,QSM_B15,PFOS,32.0,4,True,1.8,ng/L,,No,,593,5700,Air Force,South Carolina,Active,33.97,-80.47,both
+138,13257.0,Air Force,Shaw AFB,Active,2021-12-01T00:00:00-05:00,QSM_B15,PFOA,11.0,4,True,1.8,ng/L,,No,,593,5700,Air Force,South Carolina,Active,33.97,-80.47,both
+139,13274.0,Air Force,Shaw AFB,Active,2021-12-01T00:00:00-05:00,QSM_B15,PFOS,25.0,4,True,1.8,ng/L,,No,,593,5700,Air Force,South Carolina,Active,33.97,-80.47,both
+140,13275.0,Air Force,Shaw AFB,Active,2021-12-01T00:00:00-05:00,QSM_B15,PFOA,9.6,4,True,1.8,ng/L,,No,,593,5700,Air Force,South Carolina,Active,33.97,-80.47,both
+141,13292.0,Air Force,Shaw AFB,Active,2021-12-01T00:00:00-05:00,QSM_B15,PFOS,48.0,4,True,1.9,ng/L,,No,,593,5700,Air Force,South Carolina,Active,33.97,-80.47,both
+142,22381.0,Air Force,Sheppard AFB,Active,2021-12-01T00:00:00-05:00,QSM_B15,PFOS,11.7,4,True,4,ng/L,,No,,595,5700,Air Force,Texas,Active,33.976016,-98.500712,both
+143,22382.0,Air Force,Sheppard AFB,Active,2021-12-01T00:00:00-05:00,QSM_B15,PFOA,24.9,4,True,4,ng/L,,No,,595,5700,Air Force,Texas,Active,33.976016,-98.500712,both
+144,22405.0,Air Force,Sheppard AFB,Active,2021-12-01T00:00:00-05:00,QSM_B15,PFOS,12.7,4,True,4,ng/L,,No,,595,5700,Air Force,Texas,Active,33.976016,-98.500712,both
+145,22406.0,Air Force,Sheppard AFB,Active,2021-12-01T00:00:00-05:00,QSM_B15,PFOA,25.0,4,True,4,ng/L,,No,,595,5700,Air Force,Texas,Active,33.976016,-98.500712,both
+146,62610.0,Air Force,Tinker AFB,Active,2022-01-25T00:00:00-05:00,QSM_B15,PFOA,6.8,4,True,4.2,ng/L,J,No,,624,5700,Air Force,Oklahoma,Active,35.425779,-97.391055,both
+147,62611.0,Air Force,Tinker AFB,Active,2022-01-25T00:00:00-05:00,QSM_B15,PFOS,11.8,4,True,4.2,ng/L,,No,,624,5700,Air Force,Oklahoma,Active,35.425779,-97.391055,both
+148,62634.0,Air Force,Tinker AFB,Active,2022-01-25T00:00:00-05:00,QSM_B15,PFOA,9.6,4,True,4.2,ng/L,,No,,624,5700,Air Force,Oklahoma,Active,35.425779,-97.391055,both
+149,62635.0,Air Force,Tinker AFB,Active,2022-01-25T00:00:00-05:00,QSM_B15,PFOS,26.6,4,True,4.2,ng/L,,No,,624,5700,Air Force,Oklahoma,Active,35.425779,-97.391055,both
+150,114587.0,Army,Vint Hill Farms,BRAC,2022-07-21T00:00:00-04:00,QSM_B15,PFOA,32.4,4,True,1,ng/L,J,,,660,2100,Army,Virginia,BRAC,38.748428,-77.673877,both
+151,114588.0,Army,Vint Hill Farms,BRAC,2022-07-21T00:00:00-04:00,QSM_B15,PFOS,12.5,4,True,1,ng/L,J,,,660,2100,Army,Virginia,BRAC,38.748428,-77.673877,both
+152,114611.0,Army,Vint Hill Farms,BRAC,2022-07-21T00:00:00-04:00,QSM_B15,PFOA,32.8,4,True,1.02,ng/L,J,,,660,2100,Army,Virginia,BRAC,38.748428,-77.673877,both
+153,114612.0,Army,Vint Hill Farms,BRAC,2022-07-21T00:00:00-04:00,QSM_B15,PFOS,9.58,4,True,1.02,ng/L,J,,,660,2100,Army,Virginia,BRAC,38.748428,-77.673877,both
+154,30102.0,Navy,Warminster NAWC AD,BRAC,2022-06-29T00:00:00-04:00,537.1,PFOS,17.6,4,True,1.10424,ng/L,,No,,668,1700,Navy,Pennsylvania,BRAC,40.204319,-75.067753,both
+155,30108.0,Navy,Warminster NAWC AD,BRAC,2022-06-29T00:00:00-04:00,537.1,PFOA,17.0,4,True,1.10424,ng/L,,No,,668,1700,Navy,Pennsylvania,BRAC,40.204319,-75.067753,both
+156,30120.0,Navy,Warminster NAWC AD,BRAC,2022-06-29T00:00:00-04:00,537.1,PFOS,12.4,4,True,1.062925,ng/L,,No,,668,1700,Navy,Pennsylvania,BRAC,40.204319,-75.067753,both
+157,30126.0,Navy,Warminster NAWC AD,BRAC,2022-06-29T00:00:00-04:00,537.1,PFOA,13.1,4,True,1.062925,ng/L,,No,,668,1700,Navy,Pennsylvania,BRAC,40.204319,-75.067753,both
+158,30138.0,Navy,Warminster NAWC AD,BRAC,2022-07-12T00:00:00-04:00,537.1,PFOS,23.4,4,True,1.062925,ng/L,,No,,668,1700,Navy,Pennsylvania,BRAC,40.204319,-75.067753,both
+159,30144.0,Navy,Warminster NAWC AD,BRAC,2022-07-12T00:00:00-04:00,537.1,PFOA,27.3,4,True,1.062925,ng/L,,No,,668,1700,Navy,Pennsylvania,BRAC,40.204319,-75.067753,both
+160,172676.0,Navy,WASHINGTON DC COMNAVDIST,Active,2023-03-02T00:00:00-05:00,537.1,PFOS,8.04,4,True,1.6,ng/L,,No,,669,1700,Navy,District of Columbia,Active,38.874022,-76.99497,both
+161,172682.0,Navy,WASHINGTON DC COMNAVDIST,Active,2023-03-02T00:00:00-05:00,537.1,PFOA,5.34,4,True,1.6,ng/L,,No,,669,1700,Navy,District of Columbia,Active,38.874022,-76.99497,both
+162,172694.0,Navy,WASHINGTON DC COMNAVDIST,Active,2023-03-02T00:00:00-05:00,537.1,PFOS,7.85,4,True,1.56,ng/L,,No,,669,1700,Navy,District of Columbia,Active,38.874022,-76.99497,both
+163,172700.0,Navy,WASHINGTON DC COMNAVDIST,Active,2023-03-02T00:00:00-05:00,537.1,PFOA,5.07,4,True,1.56,ng/L,,No,,669,1700,Navy,District of Columbia,Active,38.874022,-76.99497,both
+164,172712.0,Navy,WASHINGTON DC COMNAVDIST,Active,2023-03-02T00:00:00-05:00,537.1,PFOS,5.78,4,True,1.47,ng/L,,No,,669,1700,Navy,District of Columbia,Active,38.874022,-76.99497,both
+165,172718.0,Navy,WASHINGTON DC COMNAVDIST,Active,2023-03-02T00:00:00-05:00,537.1,PFOA,4.94,4,True,1.47,ng/L,,No,,669,1700,Navy,District of Columbia,Active,38.874022,-76.99497,both
+166,812.0,Navy,WHIDBEY IS WA NAS,Active,2021-09-16T00:00:00-04:00,537.1,PFOS,15.5,4,True,1.54,ng/L,,,,682,1700,Navy,Washington,Active,48.338638,-122.661501,both
+167,818.0,Navy,WHIDBEY IS WA NAS,Active,2021-09-16T00:00:00-04:00,537.1,PFOA,208.0,4,True,1.54,ng/L,,,,682,1700,Navy,Washington,Active,48.338638,-122.661501,both
+168,848.0,Navy,WHIDBEY IS WA NAS,Active,2021-09-16T00:00:00-04:00,537.1,PFOS,13.2,4,True,1.5,ng/L,,,,682,1700,Navy,Washington,Active,48.338638,-122.661501,both
+169,854.0,Navy,WHIDBEY IS WA NAS,Active,2021-09-16T00:00:00-04:00,537.1,PFOA,183.0,4,True,1.5,ng/L,,,,682,1700,Navy,Washington,Active,48.338638,-122.661501,both
+170,29940.0,Navy,Willow Grove NASJRB,BRAC,2022-06-29T00:00:00-04:00,537.1,PFOS,16.7,4,True,1.220703,ng/L,J,No,,692,1700,Navy,Pennsylvania,BRAC,40.198518,-75.145664,both
+171,29946.0,Navy,Willow Grove NASJRB,BRAC,2022-06-29T00:00:00-04:00,537.1,PFOA,21.7,4,True,1.220703,ng/L,,No,,692,1700,Navy,Pennsylvania,BRAC,40.198518,-75.145664,both
+172,29958.0,Navy,Willow Grove NASJRB,BRAC,2022-06-29T00:00:00-04:00,537.1,PFOS,16.4,4,True,1.192748,ng/L,J,No,,692,1700,Navy,Pennsylvania,BRAC,40.198518,-75.145664,both
+173,29964.0,Navy,Willow Grove NASJRB,BRAC,2022-06-29T00:00:00-04:00,537.1,PFOA,21.5,4,True,1.192748,ng/L,,No,,692,1700,Navy,Pennsylvania,BRAC,40.198518,-75.145664,both
+174,29976.0,Navy,Willow Grove NASJRB,BRAC,2022-06-29T00:00:00-04:00,537.1,PFOS,12.4,4,True,1.1121,ng/L,J,,,692,1700,Navy,Pennsylvania,BRAC,40.198518,-75.145664,both
+175,29982.0,Navy,Willow Grove NASJRB,BRAC,2022-06-29T00:00:00-04:00,537.1,PFOA,17.5,4,True,1.1121,ng/L,,,,692,1700,Navy,Pennsylvania,BRAC,40.198518,-75.145664,both
