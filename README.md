@@ -1,6 +1,6 @@
 ## Webscraping data from a website and mapping it
 
-<img src="https://github.com/plain-jane-gray/webscraping-and-mapping/blob/main/map%20PFAS%20exceedance%20bases.jpg" width=75% height=75%>
+<img src="https://github.com/plain-jane-gray/webscraping-and-mapping/blob/main/map%20PFAS%20exceedance%20bases.jpg">
 
 The code in this respository scrapes data from a publicly available website and displays key information on a map so it is easier to understand. Specifically, the code scrapes data from a Department of Defense (DOD) website; cleans, filters, and compares the data to proposed environmental standards; and then maps it so the exceedances of these standards can be easily visualized. 
 
