@@ -1,6 +1,6 @@
 ## Webscraping data from a website and mapping it
 
-<img src="https://github.com/plain-jane-gray/webscraping-and-mapping/assets/91796089/7e0ac3e4-36b4-40c5-b8f2-f0459f633b20" width=75% height=75%>
+<img src="https://github.com/plain-jane-gray/webscraping-and-mapping/blob/main/map%20PFAS%20exceedance%20bases.jpg" width=75% height=75%>
 
 The goal of this respository is to scrape data from a publicly available website and display the information so it is easier to understand. Specifically, the contents of this respository scrapes data from a Department of Defense (DOD) website; cleans, filters, and compares the data to proposed environmental standards; and then maps it so the exceedances of these standards can be easily visualized. 
 
